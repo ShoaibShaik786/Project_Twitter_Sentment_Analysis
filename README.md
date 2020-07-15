@@ -1,2 +1,2 @@
-# Project_Twitter_Sentment_Analysis
+# Project_Twitter_Sentiment_Analysis
 Project On Twitter Sentiment Analysis
